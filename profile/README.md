@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ad/3a/a1/ad3aa168b76a1846c56edad68c218242.gif">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
